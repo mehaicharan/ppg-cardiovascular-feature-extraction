@@ -1,4 +1,4 @@
-# PROTOCOL TIMINGS (Strictly matching Section 4.6)
+# PROTOCOL TIMINGS
 from preprocessing import TARGET_SAMPLE_RATE
 
 
